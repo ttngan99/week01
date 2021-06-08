@@ -33,7 +33,7 @@
 
 ### Cloud Service (nhóm)
 
-- PaaS/SaaS/AaaS
+- PaaS/SaaS
 - Cloud vs On-Premise
 - Các nhóm dịch vụ cloud: Cloud Storage/ Cloud Computing/ Cloud Networking (VPC)
 
