@@ -19,11 +19,11 @@ Cloud Service
 
 3/ Thực tập trên VM linux cài đặt Docker. Pull docker blog Ghost CMS và deploy lên VM.
 
-3.1/ Sử dụng Dockerfile để build image thay vì pull docker image từ docker hub.
+  3.1/ Sử dụng Dockerfile để build image thay vì pull docker image từ docker hub.
 
-3.2/ Đăng ký tài khoản docker hub để push image lên hub.
+  3.2/ Đăng ký tài khoản docker hub để push image lên hub.
 
-3.3/ Sử dụng docker compose để compose application (Ghost cms) và Database cùng một file docker-compose.yml.
+  3.3/ Sử dụng docker compose để compose application (Ghost cms) và Database cùng một file docker-compose.yml.
 
 4/ Đăng ký và quản lý tên miền trên hostinger.vn (đăng ký đuôi .online 22.951 VNĐ).
 
