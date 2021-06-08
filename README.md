@@ -66,9 +66,9 @@
 
 7/ Viết thuật toán encode và decode Base64 (không sử dụng thư viện). So sánh tốc độ encode/decode với một số thư viện đã có.
 
-7/ Sử dụng Let’s encrypt để issue SSL cho blog vừa tạo. Cấu hình https cho web (optional).
+8/ Sử dụng Let’s encrypt để issue SSL cho blog vừa tạo. Cấu hình https cho web (optional).
 
-8/ Làm slide powerpoint trình bày các nội dung trên.
+9/ Làm slide powerpoint trình bày các nội dung trên.
 
 ## Ngày nộp: đến hết ngày 18/06/2021.
 
