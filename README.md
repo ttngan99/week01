@@ -39,7 +39,7 @@
 
 ### Mã hoá/Thuật toán (nhóm)
 
-- Encryption/Description và Hasing
+- Encryption/Description, Encoding/Decoding và Hashing
 - Cơ chế mã hoá RSA/AES/DES và ứng dụng
 - Base64
 - SSL/TSL, lỗ hổng Heartbleed của SSL
