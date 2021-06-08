@@ -70,7 +70,7 @@
 
 8/ Làm slide powerpoint trình bày các nội dung trên.
 
-## Ngày nộp: đến hết ngày 15/06/2021.
+## Ngày nộp: đến hết ngày 18/06/2021.
 
 ### Join vào org https://github.com/intern2021. Mỗi bạn sẽ tạo một repository trên org này để upload bài thực hành
 
