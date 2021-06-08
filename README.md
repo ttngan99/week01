@@ -9,6 +9,8 @@ Network/Firewall
 
 Linux
 
+Cloud Service
+
 ## Thực hành
 
 1/ Đăng ký sử dụng github để upload, quản lý các bài tập.
