@@ -23,7 +23,7 @@ Linux
 
 6/ Chỉ mở port cho application cần publish không mở toàn bộ port.
 
-7/ Sử dụng let’sencrypt để issue SSL cho blog vừa tạo. Cấu hình https cho web.
+7/ Sử dụng let’sencrypt để issue SSL cho blog vừa tạo. Cấu hình https cho web (optional)
 
 ## Ngày nộp: đến hết ngày 15/06/2021.
 
