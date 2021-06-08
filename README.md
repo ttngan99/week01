@@ -37,7 +37,7 @@
 - Cloud vs On-Premise
 - Các nhóm dịch vụ cloud: Cloud Storage/ Cloud Computing/ Cloud Networking (VPC)
 
-### Mã hoá/Thuật toán
+### Mã hoá/Thuật toán (nhóm)
 
 - Encryption/Description và Hasing
 - Cơ chế mã hoá RSA/AES/DES và ứng dụng
